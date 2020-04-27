@@ -1,7 +1,7 @@
 FROM python
 
 
-MAINTAINER nehapatidar89260@gmail.com
+MAINTAINER nehapatidar@gmail.com
 
 
 RUN mkdir /mycode
